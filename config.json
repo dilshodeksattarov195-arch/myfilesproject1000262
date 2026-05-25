@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpave",
+        "uuid": 2531706,
+        "checksum": "ycdlu"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
